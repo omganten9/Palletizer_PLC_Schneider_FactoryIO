@@ -1,9 +1,10 @@
-# Palletizer_PLC_Schneider_FactoryIO
 # Box Sorting and Palletizing System Using PLC and Factory I/O
 
 This project simulates a **box sorting and palletizing system** using a **Schneider TM221CE16R PLC** integrated with **Factory I/O**.  
 The system sorts boxes by height using pneumatic pushers and arranges the smallest boxes on a pallet with a palletizer machine.
 
+
+![PLC Configuration](/mnt/data/a3fc2401-4116-48a5-b2e2-c893e52c39b0.png)
 ---
 
 ## 🧩 Overview
@@ -18,8 +19,6 @@ It combines **conveyor-based sorting**, **pneumatic actuation**, and **palletizi
 - **Outputs:** 7 relay (2A each)  
 - **Ports:** 1 Ethernet, 1 Serial (Modbus)  
 - **Software:** EcoStruxure Machine Expert, Factory I/O  
-
-![Factory Layout](Factory_Layout.jpg)
 
 ---
 
@@ -37,7 +36,3 @@ It combines **conveyor-based sorting**, **pneumatic actuation**, and **palletizi
 - Modular control for conveyor, pusher, and palletizer subsystems  
 - Fully documented wiring, ladder logic, and process flow  
 - Includes simulation video and full project report  
-
----
-
-## 📁 Repository Structure
