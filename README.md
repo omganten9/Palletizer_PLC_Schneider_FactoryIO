@@ -4,7 +4,7 @@ This project simulates a **box sorting and palletizing system** using a **Schnei
 The system sorts boxes by height using pneumatic pushers and arranges the smallest boxes on a pallet with a palletizer machine.
 
 
-![PLC Configuration](Factory_Layout.jpg)
+![PLC Configuration](Factory_Layout1.jpg)
 ---
 
 ## 🧩 Overview
