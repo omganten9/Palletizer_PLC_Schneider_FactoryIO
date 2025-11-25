@@ -19,7 +19,7 @@ It combines **conveyor-based sorting**, **pneumatic actuation**, and **palletizi
 - **Ports:** 1 Ethernet, 1 Serial (Modbus)  
 - **Software:** EcoStruxure Machine Expert, Factory I/O  
 
-![PLC Configuration](/mnt/data/a3fc2401-4116-48a5-b2e2-c893e52c39b0.png)
+![Factory Layout](Factory_Layout.jpg)
 
 ---
 
